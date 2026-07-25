@@ -1,0 +1,6 @@
+{
+  "name": "Assignment Tracker System",
+  "description": "Comprehensive assignment management system for students and administrators featuring course tracking, deadline reminders, performance analytics, and history logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
